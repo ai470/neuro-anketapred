@@ -1,0 +1,4 @@
+:HL["/anketapred/_next/static/css/ad9f60638c6c0e53.css","style"]
+:HL["/anketapred/assets/neuro/hero-bg.png","image"]
+:HL["/anketapred/assets/neuro/hero-subtract.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"reg","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"RM-slrv2CUmaWBqdkXTNC"}
